@@ -12,25 +12,18 @@
 this template: file upload for Laravel
 
 
-## Laravel Sponsors
+## Launch
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
+<pre> 
+<span class="pl-c"><span class="pl-c">#</span> clone</span>
+git clone https://github.com/ariadys/lara-upload.git
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
+<span class="pl-c"><span class="pl-c">#</span> serve</span>
+php artisan serve
+
+<span class="pl-c"><span class="pl-c">#</span> index file upload</span>
+localhost:8000/file/index
+</pre>
 
 
 ## License
