@@ -24,7 +24,7 @@ git clone https://github.com/ariadys/lara-upload.git
 <span class="pl-c"><span class="pl-c">#</span> migrate</span>
 php artisan migrate
 
-<span class="pl-c"><span class="pl-c">#</span> migrate</span>
+<span class="pl-c"><span class="pl-c">#</span> Serve</span>
 php artisan serve
 
 <span class="pl-c"><span class="pl-c">#</span> index file upload</span>
