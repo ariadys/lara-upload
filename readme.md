@@ -18,7 +18,13 @@ this template: file upload for Laravel
 <span class="pl-c"><span class="pl-c">#</span> clone</span>
 git clone https://github.com/ariadys/lara-upload.git
 
-<span class="pl-c"><span class="pl-c">#</span> serve</span>
+<span class="pl-c"><span class="pl-c">#</span> Setup with your Database</span>
+.env 
+
+<span class="pl-c"><span class="pl-c">#</span> migrate</span>
+php artisan migrate
+
+<span class="pl-c"><span class="pl-c">#</span> migrate</span>
 php artisan serve
 
 <span class="pl-c"><span class="pl-c">#</span> index file upload</span>
